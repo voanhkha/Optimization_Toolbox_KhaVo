@@ -2,7 +2,7 @@ The Optimization Toolbox by Kha Vo, including the following methods:
 
 - Primal simplex for linear program (based on chaper 3, Linear and Nonlinear Programming, D. Luenberger).
 - Length-constrained optimal segmentation (based on paper "Optimal Length-Constrained Segmentation and
-Subject-Adaptive Learning for Real-time Arrhythmia Detection", Kha Vo, to be appeared in ICC'18 conference in Kansas).
+Subject-Adaptive Learning for Real-time Arrhythmia Detection", Kha Vo, unpublished).
 - Descend methods for quadratic program, including gradient, steepest and Newton method (with backtracking and exact line search),
 (based on "Convex Optimization", S. Boyd).
 
